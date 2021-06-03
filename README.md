@@ -4,6 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enweazudaniel" alt="enweazudaniel" /> </p>
 
-- 📫 How to reach me **t.me/dandollar1**
+- 📫 How to reach me **https://t.me/dandollar1**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enweazudaniel&layout=compact" alt="enweazudaniel" /></p>
