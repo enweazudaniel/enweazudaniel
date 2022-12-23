@@ -5,6 +5,7 @@
 <h3 align="center">Just another wannabe Developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enweazudaniel" alt="enweazudaniel's contribution activity" /> </p>
+<h2 align="center">Contact me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-enweazu-08ba77207"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
@@ -15,13 +16,8 @@
 <p align="center">
   <a href="mailto:enweazu.daniel@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-black?style=flat-square&logo=gmail" alt="Email me"></a>
 </p>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Expert%20in%20Python-orange?style=flat-square&logo=python" alt="Expert in Python"></a>
-</p>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Expert%20in%20JavaScript-yellow?style=flat-square&logo=javascript" alt="Expert in JavaScript"></a>
-</p>
-<h2>Skills</h2>
+
+<h2 align="center" >Skills</h2>
 
 <table>
   <tr>
@@ -50,6 +46,11 @@
     <td>Postman</td>
   </tr>
 </table>
-
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Expert%20in%20Python-orange?style=flat-square&logo=python" alt="Expert in Python"></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Expert%20in%20JavaScript-yellow?style=flat-square&logo=javascript" alt="Expert in JavaScript"></a>
+</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enweazudaniel&layout=compact" alt="enweazudaniel's top programming languages" /></p>
