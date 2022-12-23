@@ -15,6 +15,41 @@
 <p align="center">
   <a href="mailto:enweazu.daniel@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-black?style=flat-square&logo=gmail" alt="Email me"></a>
 </p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Expert%20in%20Python-orange?style=flat-square&logo=python" alt="Expert in Python"></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Expert%20in%20JavaScript-yellow?style=flat-square&logo=javascript" alt="Expert in JavaScript"></a>
+</p>
+<h2>Skills</h2>
+
+<table>
+  <tr>
+    <th>Programming languages</th>
+    <th>Tools and frameworks</th>
+    <th>Testing and QA</th>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>React</td>
+    <td>Jest</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>Node.js</td>
+    <td>Mocha</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>Express</td>
+    <td>Selenium</td>
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td>Django</td>
+    <td>Postman</td>
+  </tr>
+</table>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enweazudaniel&layout=compact" alt="enweazudaniel's top programming languages" /></p>
