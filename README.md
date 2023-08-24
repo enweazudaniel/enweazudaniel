@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me=" ><img src="https://img.shields.io/badge/-Contact%20me%20on%20Telegram-blue?style=flat-square&logo=telegram" alt="Contact me on Telegram"></a>
+  <a href="https://t.me="Darkchoco16" ><img src="https://img.shields.io/badge/-Contact%20me%20on%20Telegram-blue?style=flat-square&logo=telegram" alt="Contact me on Telegram"></a>
 </p>
 <p align="center">
   <a href="mailto:queentestimony@gmail.com"><img src="https://img.shields.io/badge/-Email%20me-black?style=flat-square&logo=gmail" alt="Email me"></a>
