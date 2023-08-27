@@ -63,6 +63,15 @@
   <a href="#">
     <img src="https://img.shields.io/badge/-Expert%20in%20JavaScript-yellow?style=flat-square&logo=javascript" alt="Expert in JavaScript">
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Expert%20in%20Igbo%20Language-green?style=flat-square&logo=language" alt="Expert in Igbo Language">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Expert%20in%20Linux-purple?style=flat-square&logo=linux" alt="Expert in Linux">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Expert%20in%20C%2B%2B-blue?style=flat-square&logo=c%2B%2B" alt="Expert in C++">
+  </a>
 </p>
 
 <p align="center">
