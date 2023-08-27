@@ -1,10 +1,10 @@
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=enweiel&show_icons=true&theme=radical" alt="loveoma21 GitHub stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=oma&show_icons=true&theme=radical" alt="loveoma21 GitHub stats" /></p>
 
 <h1 align="center">Hi 👋, I'm Oma</h1>
 <h3 align="center">Just another wannabe Developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=loveoma21 " alt="enweazudaniel's contribution activity" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=loveoma21 " alt="loveoma's contribution activity" /> </p>
 <h2 align="center">Contact me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/Testimony-Queen-08ba01916"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
