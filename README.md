@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Danny</h1>
-<h3 align="center">Just another wannabe Developer.</h3>
+<h3 align="center">Virtual Assistant | Igbo Translator | Developer | App Tester | Data Entry Specialist </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enweazudaniel" alt="enweazudaniel's contribution activity" />
@@ -19,6 +19,10 @@
   </a>
   <a href="mailto:enweazu.daniel@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20me-black?style=flat-square&logo=gmail" alt="Email me">
+  </a>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~019080c2c6184393e5">
+    <img src="https://img.shields.io/badge/-Upwork-blue?style=flat-square&logo=upwork" alt="Upwork">
   </a>
 </p>
 
