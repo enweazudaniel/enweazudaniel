@@ -24,6 +24,10 @@
   <a href="https://www.upwork.com/freelancers/~019080c2c6184393e5">
     <img src="https://img.shields.io/badge/-Upwork-blue?style=flat-square&logo=upwork" alt="Upwork">
   </a>
+  </a>
+  <a href="https://www.fiverr.com/users/dandollar707/seller_dashboard">
+    <img src="https://img.shields.io/badge/-Fiverr-blue?style=flat-square&logo=fiverr" alt="Fiverr">
+  </a>
 </p>
 
 <h2 align="center">Skills</h2>
