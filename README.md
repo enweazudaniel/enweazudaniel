@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Danny</h1>
-<h3 align="center">Virtual Assistant | Igbo Translator | Developer | App Tester | Data Entry Specialist </h3>
+<h3 align="center">Linux Enthusiast(Custom ROM and Kernel Developer) | Freelance Igbo Translator | Software Developer | IT support | Senior Member XDA Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enweazudaniel" alt="enweazudaniel's contribution activity" />
