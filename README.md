@@ -3,81 +3,66 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Danny</h1>
-<h3 align="center">Linux Enthusiast(Custom ROM and Kernel Developer) | Freelance Igbo Translator | Software Developer | IT support | Senior Member XDA Developer </h3>
+<h3 align="center">
+  Linux Enthusiast | Custom ROM & Kernel Developer<br>
+  Freelance Igbo Translator | Software Developer<br>
+  IT Support | Senior Member XDA Developer
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enweazudaniel" alt="enweazudaniel's contribution activity" />
 </p>
 
-<h2 align="center">Contact me</h2>
+<hr />
+
+<h2 align="center">Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-enweazu-08ba77207">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://t.me/dandollar1">
-    <img src="https://img.shields.io/badge/-Contact%20me%20on%20Telegram-blue?style=flat-square&logo=telegram" alt="Contact me on Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:enweazu.daniel@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20me-black?style=flat-square&logo=gmail" alt="Email me">
-  </a>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.upwork.com/freelancers/~019080c2c6184393e5">
-    <img src="https://img.shields.io/badge/-Upwork-blue?style=flat-square&logo=upwork" alt="Upwork">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork">
   </a>
-  </a>
-  <a href="https://www.fiverr.com/users/dandollar707/seller_dashboard">
-    <img src="https://img.shields.io/badge/-Fiverr-blue?style=flat-square&logo=fiverr" alt="Fiverr">
-  </a>
-</p>
+  </p>
 
-<h2 align="center">Skills</h2>
+<hr />
 
-<table align="center">
-  <tr>
-    <th>Programming languages</th>
-    <th>Tools and frameworks</th>
-    <th>Testing and QA</th>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>React</td>
-    <td>Jest</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Node.js</td>
-    <td>Mocha</td>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td>Express</td>
-    <td>Selenium</td>
-  </tr>
-  <tr>
-    <td>C++</td>
-    <td>Django</td>
-    <td>Postman</td>
-  </tr>
+<h2 align="center">Skills & Technologies</h2>
+
+<table align="center" style="border-collapse: collapse; width: 80%;">
+  <thead>
+    <tr>
+      <th style="padding: 8px 12px;">Programming Languages</th>
+      <th style="padding: 8px 12px;">Tools & Frameworks</th>
+      <th style="padding: 8px 12px;">Testing & QA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px 12px;">JavaScript, Python, Java, C++</td>
+      <td style="padding: 8px 12px;">React, Next.js,Mongodb</td>
+      <td style="padding: 8px 12px;">Postman</td>
+    </tr>
+  </tbody>
 </table>
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Expert%20in%20Python-orange?style=flat-square&logo=python" alt="Expert in Python">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Expert%20in%20JavaScript-yellow?style=flat-square&logo=javascript" alt="Expert in JavaScript">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Expert%20in%20Igbo%20Language-green?style=flat-square&logo=language" alt="Expert in Igbo Language">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Expert%20in%20Linux-purple?style=flat-square&logo=linux" alt="Expert in Linux">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Expert%20in%20C%2B%2B-blue?style=flat-square&logo=c%2B%2B" alt="Expert in C++">
-  </a>
+<p align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Python-Expert-orange?style=for-the-badge&logo=python" alt="Expert in Python">
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript" alt="Expert in JavaScript">
+  <img src="https://img.shields.io/badge/Igbo-Language-Expert-green?style=for-the-badge&logo=language" alt="Expert in Igbo Language">
+  <img src="https://img.shields.io/badge/Linux-Expert-purple?style=for-the-badge&logo=linux" alt="Expert in Linux">
+  <img src="https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=c%2B%2B" alt="Expert in C++">
 </p>
 
+<hr />
+
+<h2 align="center">Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enweazudaniel&layout=compact" alt="enweazudaniel's top programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enweazudaniel&layout=compact" alt="Top Languages">
 </p>
