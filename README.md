@@ -29,33 +29,20 @@
   <a href="https://www.upwork.com/freelancers/~019080c2c6184393e5">
     <img src="https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork">
   </a>
-  </p>
+</p>
 
 <hr />
 
 <h2 align="center">Skills & Technologies</h2>
 
-<table align="center" style="border-collapse: collapse; width: 80%;">
-  <thead>
-    <tr>
-      <th style="padding: 8px 12px;">Programming Languages</th>
-      <th style="padding: 8px 12px;">Tools & Frameworks</th>
-      <th style="padding: 8px 12px;">Testing & QA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 8px 12px;">JavaScript, Python, Java, C++</td>
-      <td style="padding: 8px 12px;">React, Next.js,Mongodb</td>
-      <td style="padding: 8px 12px;">Postman</td>
-    </tr>
-  </tbody>
-</table>
+| Programming Languages | Tools & Frameworks | Testing & QA |
+| :--- | :--- | :--- |
+| JavaScript, Python, Java, C++ | React, Next.js, MongoDB | Postman |
 
 <p align="center" style="margin-top: 20px;">
   <img src="https://img.shields.io/badge/Python-Expert-orange?style=for-the-badge&logo=python" alt="Expert in Python">
   <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript" alt="Expert in JavaScript">
-  <img src="https://img.shields.io/badge/Igbo-Language-Expert-green?style=for-the-badge&logo=language" alt="Expert in Igbo Language">
+  <img src="https://img.shields.io/badge/Igbo-Language-Expert-green?style=for-the-badge&logo=google-translate" alt="Expert in Igbo Language">
   <img src="https://img.shields.io/badge/Linux-Expert-purple?style=for-the-badge&logo=linux" alt="Expert in Linux">
   <img src="https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=c%2B%2B" alt="Expert in C++">
 </p>
